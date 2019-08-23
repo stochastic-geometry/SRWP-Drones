@@ -10,7 +10,7 @@ This repository contains matlab codes for the simulations in [1]. In each folder
 
 Please cite [1] if you reuse these codes.
 
-The extended journal version of the conference in [1] is available in [2]. The repository for the codes of [2] can be found at [https://github.com/stochastic-geometry/Mobility-Drones](https://github.com/stochastic-geometry/Mobility-Drones)
+The extended journal version of the conference in [1] is available in [2]. The repository for the codes of [2] can be found at [https://github.com/stochastic-geometry/Mobility-Drones](https://github.com/stochastic-geometry/Mobility-Drones).
 
 ### References
 
