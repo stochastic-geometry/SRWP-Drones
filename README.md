@@ -12,7 +12,7 @@ Please cite [1] if you reuse these codes.
 
 The extended journal version of the conference in [1] is available in [2]. The repository for the codes of [2] can be found [here](https://github.com/stochastic-geometry/Mobility-Drones).
 
-![SRWP](https://github.com/stochastic-geometry/SRWP-Drones/blob/master/SimplifiedRandomWayPoint.pdf)
+![SRWP](https://github.com/stochastic-geometry/SRWP-Drones/blob/master/SimplifiedRandomWayPoint.jpg)
 
 ### References
 
