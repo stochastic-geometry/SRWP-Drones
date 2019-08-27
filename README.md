@@ -14,6 +14,6 @@ The extended journal version of the conference in [1] is available in [2]. The r
 
 ### References
 
-[1] M. Banagar and H. S. Dhillon, “Fundamentals of drone cellular network analysis under random waypoint mobility model,” in IEEE Global Commun. Conf. (Globecom), Dec. 2019.
+[1] M. Banagar and H. S. Dhillon, “Fundamentals of drone cellular network analysis under random waypoint mobility model,” in IEEE Global Commun. Conf. (Globecom), Dec. 2019, available online [here](https://arxiv.org/abs/1908.09064).
 
 [2] M. Banagar and H. S. Dhillon, “Performance characterization of canonical mobility models in drone cellular networks,” available online [here](https://arxiv.org/abs/1908.05243).
